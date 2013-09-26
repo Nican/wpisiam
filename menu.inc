@@ -3,7 +3,7 @@
     <a href="<!--#echo var="baseURI"-->">Home</a>
   </li>
   <li<!--#if expr="$REQUEST_URI = /events/"--> class="active" <!--#endif -->>
-    <a href="<!--#echo var="baseURI"-->events/1213/">Events</a>
+    <a href="<!--#echo var="baseURI"-->events/1314/">Events</a>
   </li>
   <li<!--#if expr="$REQUEST_URI = /officers/"--> class="active" <!--#endif -->>
     <a href="<!--#echo var="baseURI"-->officers.html">Officers</a>

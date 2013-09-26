@@ -4,6 +4,7 @@
   <div class="well sidebar-nav" style=" padding: 9px 0;">
     <ul class="nav nav-list">
       <li class="nav-header">Events</li>
+      <li <!--#if expr="$REQUEST_URI = /1314/"--> class="active" <!--#endif -->><a href="../1314">2013-2014</a></li>
       <li <!--#if expr="$REQUEST_URI = /1213/"--> class="active" <!--#endif -->><a href="../1213">2012-2013</a></li>
       <li <!--#if expr="$REQUEST_URI = /1112/"--> class="active" <!--#endif -->><a href="../1112">2011-2012</a></li>
       <li <!--#if expr="$REQUEST_URI = /1011/"--> class="active" <!--#endif -->><a href="../1011">2010-2011</a></li>
