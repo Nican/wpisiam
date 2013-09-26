@@ -34,7 +34,7 @@
   				<div class="nav-collapse collapse">
   					<!--#include virtual="menu.inc" -->
   					<div class="navbar-form pull-right">
-  						JOIN!
+  						<a href="https://orgsync.com/57457/chapter">OrgSync</a>
   					</div>
   				</div><!--/.nav-collapse -->
   			</div>
