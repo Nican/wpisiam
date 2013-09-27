@@ -12,7 +12,7 @@
     <a href="<!--#echo var="baseURI"-->constitution.html">Constitution</a>
   </li>
   <li<!--#if expr="$REQUEST_URI = /resources/"--> class="active" <!--#endif -->>
-    <a href="<!--#echo var="baseURI"-->resources.html">Constitution</a>
+    <a href="<!--#echo var="baseURI"-->resources.html">Resources</a>
   </li>
 
 </ul>
