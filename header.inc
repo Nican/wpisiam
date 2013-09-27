@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<!--#set var="baseURI" value="/~siam/new/"-->
+<!--#set var="baseURI" value="/~siam/"-->
 <html lang="en">
 <head>
 	<meta charset="utf-8">
