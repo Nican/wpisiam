@@ -30,10 +30,10 @@
   					<span class="icon-bar"></span>
   					<span class="icon-bar"></span>
   				</button>
-  				<a class="brand" href="#"><img src="<!--#echo var="baseURI"-->/logo.png"></a>
+  				<a class="brand" href="<!--#echo var="baseURI"-->"><img src="<!--#echo var="baseURI"-->/logo.png"></a>
   				<div class="nav-collapse collapse">
   					<!--#include virtual="menu.inc" -->
-  					<div class="navbar-form pull-right">
+  					<div class="navbar-form pull-right; line-height: 40px; ">
   						<a href="https://orgsync.com/57457/chapter">OrgSync</a>
   					</div>
   				</div><!--/.nav-collapse -->
